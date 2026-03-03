@@ -121,7 +121,7 @@ class ProfilePage extends StatelessWidget {
                 ),
                 SizedBox(height: 20),
                 Text(
-                  "Твоё имя",
+                  "Айсултан Кайрат",
                   style: TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.bold,
@@ -129,7 +129,7 @@ class ProfilePage extends StatelessWidget {
                 ),
                 SizedBox(height: 10),
                 Text(
-                  "Твоя группа",
+                  "Разработка",
                   style: TextStyle(
                     fontSize: 18,
                     color: Colors.grey[700],
